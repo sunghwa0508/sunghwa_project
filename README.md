@@ -1,4 +1,4 @@
-marketing project
+# marketing project
 
 해당 프로젝트는 데이터를 기반으로 다양한 텍스트, 음성, 영상데이터 등 다양한 데이터를 바탕으로
 
